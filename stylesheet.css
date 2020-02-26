@@ -13,5 +13,17 @@ body {
   font-weight: bold;
   padding: 5px;
   margin: auto;
+}
+
+a:link{
   color: green;
+}
+a:hover{
+  color: orange;
+}
+a:visited{
+  color:gray;
+}
+a:selected{
+  color:#55FF55;
 }
